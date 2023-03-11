@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Lleusxam">
-    <img src="https://raw.githubusercontent.com/Lleusxam/Lleusxam/main/myname.png" alt="Maxsuel Gadelha" /></a>
+    <img src="https://raw.githubusercontent.com/Lleusxam/Lleusxam/main/name.png" alt="Maxsuel Gadelha" /></a>
 </p>
 
 <p align="center">
