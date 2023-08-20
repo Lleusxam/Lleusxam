@@ -2,13 +2,6 @@
   <a href="https://github.com/Lleusxam">
     <img src="https://raw.githubusercontent.com/Lleusxam/Lleusxam/main/name.png" alt="Maxsuel Gadelha" /></a>
 </p>
-
-<p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/Lleusxam">
-    <img src="https://raw.githubusercontent.com/Lleusxam/Lleusxam/main/home-doings.gif" /></a>
-</p>
-
 <!-- Social icons section -->
 <p align="center">
   &#8287;&#8287;&#8287;&#8287;&#8287;
